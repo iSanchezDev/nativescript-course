@@ -13,8 +13,7 @@
     "android": "tns run android"
   },
   "description": "NativeScript Application",
-  "license": "SEE LICENSE IN <your-license-filename>",
-  "repository": "<fill-your-repository-here>",
+  "repository": "https://github.com/iSanchezDev/nativescript-course",
   "dependencies": {
     "@angular/animations": "~8.2.0",
     "@angular/common": "~8.2.0",
